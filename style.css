@@ -1,0 +1,36 @@
+body {
+    background-color: #777;
+}
+
+header {
+    background-color: #ebebeb;
+    color: #777;
+}
+
+nav {
+    background-color: #ebebeb;
+    color: #777;    
+}
+
+section {
+    background-color: #ebebeb;
+    color: #777;
+}
+
+article {
+    color: #ebebeb;
+}
+
+p {
+    color: #777;
+}
+
+aside {
+    background-color: #ebebeb;
+    color: #777;
+}
+
+footer {
+    background-color: #ebebeb;
+    color: #777;
+}
