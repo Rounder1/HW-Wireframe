@@ -67,9 +67,9 @@ article {
 aside {
     background-color: #ebebeb;
     color: #777;
-    width: 445px;
     float: left;
-    padding: 20px;
+    padding: 35px;
+    width: 355px;
 }
 
 footer {
